@@ -29,7 +29,7 @@ define( 'DB_USER', 'freedb__travel' );
 define( 'DB_PASSWORD', 'GSz6KKJUsmv6uG!' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'sql.freedb.tech' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
