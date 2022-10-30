@@ -1,0 +1,325 @@
+## 2.11.0 [16th August 2022]
+
+### Added
+
+- Snog widget added
+- Iconic widget added
+- Reading Time option added in Alter Grid
+- Title before & after apply filter featured added in all widgets
+- Author Middle text change option added in Recent Comments widget
+- Image support compatibility added in Atlas Slider, Berlin Slider, Sline Slider, Pholox Slider Widgets
+
+### Fixed
+
+- Image size issue fixed in Forbes Tabs Widget (Thanks to Theme Builders)
+- Query offset issue fixed(Thanks to Lexxy)
+
+## 2.10.0 [25th May 2022]
+
+### Added
+
+- Exotic List Widget Added
+
+### Fixed
+
+- Ultimate Post Kit Video Link Issue fixed.
+
+## 2.9.5 [9th May 2022]
+
+### Fixed
+
+- Readmore style not working issue fixed in Ramble Grid & Carousel Widget (Thanks to Yamina Aziria)
+- Query conflict issue fixed (Thanks to Marco Barbera)
+- removed some un-used functions from all widgets
+- Dashboard issue fixed
+- fixed some minor issues
+
+## 2.9.4 [27th April 2022]
+
+### Added
+
+- Post Format option added in Alter Grid and Alter Carousel Widgets
+
+### Fixed
+
+- Some Minor issue fixed
+- some of dashboard issues fixed and uikit framework updated to latest version.
+
+### Update
+
+- API system updated on Newsletter Widget
+
+### Removed
+
+- Some unnecessary notice removed from dashboard area
+
+## 2.9.3 [18th April 2022]
+
+### Added
+
+- Post Format option added in Alex Grid and Alex Carousel Widgets
+- Row gap option added in Alex, Alice, Alter, Elite, Hazel, Maple, Pixina, Ramble, Wixer Grid, Fanel List, Harold List, Tag Cloud, Tiny List Widgets
+
+## 2.9.2 [31th March 2022]
+
+### Fixed
+
+- Register Controls Deprecated and compatibility issue fixed in Elementor version 3.6.x
+
+## 2.9.1 [18th March 2022]
+
+### Update
+
+- Freemius SDK updated to latest version
+
+### Fixed
+
+- Pagination issue fixed in Foxico Slider Widget
+
+## 2.9.0 [15th March 2022]
+
+### Added
+
+- Foxico Slider Widget Added
+- Query offset option added in all widgets
+
+## 2.8.0 [20 February 2022]
+
+### Added
+
+- Sline Slider Widget Added
+- Carbon Slider Widget Added
+- Pholox Slider Widget Added
+
+## 2.7.0 [02 February 2022]
+
+### Added
+
+- Berlin Slider Widget Added
+
+## 2.6.0 [23th December 2021]
+
+### Added
+
+- Reading Progress Circle Widget Added
+
+### Fixed
+
+- Active item style issue fixed in Amox Carousel Widget
+
+## 2.5.2 [19th December 2021]
+
+### Fixed
+
+- Improved Asset Loading issue fixed in all Carousel and Slider Widgets
+- Active style issue fixed in Amox Carousel Widget
+
+## 2.5.1 [18th December 2021]
+
+### Fixed
+
+- Alter, Alex, Hazel, Maple Widget some minor issue fixed (Thanks to Ahmetsali)
+
+## 2.5.0 [12th December 2021]
+
+### Added
+
+- Atlas Slider Widget Added
+- Category Carousel Widget Added
+- Reading Progress Bar Widget added
+- Carousel Active Item option added in Amox Carousel Widget
+
+## 2.4.0 [23th November 2021]
+
+### Added
+
+- Crystal Slider Widget Added
+
+### Fixed
+
+- Item Radius issue fixed in Amox Grid Widget (Thanks to Ahmetsali)
+- Forbes Tabs (show/hide) issue fixed
+
+## 2.3.2 [4th November 2021]
+
+### Fixed
+
+- Content Padding Not Working issue fixed in Alter Grid Widget (Thanks to Ahmetsali)
+- Title Typography Not Working issue fixed in Alice Grid Widget (Thanks to Ahmetsali)
+
+## 2.3.1 [1st November 2021]
+
+### Fixed
+
+- Static Social Count Widget not showing issue fixed
+
+## 2.3.0 [1st November 2021]
+
+### Added
+
+- Camux Slider Widget Added
+
+## 2.2.0 [26th October 2021]
+
+### Added
+
+- Animations Extension Added
+- Amox Grid Widget Added
+- Amox Carousel Widget Added
+- Welsh List Widget Added
+- Social Count(Static) Widget Added
+- Readmore option and Meta End Position added in Alter Carousel Widget
+- Title Style option added in Alice Grid, Alice Carousel, Alex Grid, Alex Carousel Widget
+- Style option added in Post Category Widget
+
+### Fixed
+
+- Pagination not working issue fixed in Fanel List Widget (Thanks to Aespada)
+- Counter issue fixed in Buzz List Carousel Widget
+
+## 2.1.0 [17th October 2021]
+
+### Added
+
+- Skide Slider Widget Added
+- Readmore option added in Alter Grid Widget
+
+## 2.0.1 [12th October 2021]
+
+### Fixed
+
+- Minor issue Fixed
+
+## 2.0.0 [11th October 2021]
+
+### Added
+
+- [Post Calendar](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/post-calendar/) Widget added
+- [Social Link](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/social-link/) Widget added
+- [Classic List](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/classic-list/) Widget added
+- [Kalon Grid](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/kalon-grid/) Widget added
+- [Kalon Carousel](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/kalon-carousel/) Widget added
+- [Pixina Grid](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/pixina-grid/) Widget added
+- [Pixina Carousel](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/pixina-carousel/) Widget Added
+- [Wixer Grid](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/wixer-grid/) Widget added
+- [Wixer Carousel](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/wixer-carousel/) Widget Added
+- [Noxe Slider](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/noxe-slider/) Widget added
+- [Hansel Slider](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/hansel-slider/) Widget added
+- [Optick Slider](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/option-slider/) Widget added
+- [Holux Tabs](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/holux-tabs/) Widget added
+- [Forbes Tabs](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/forbes-tabs/) Widget added
+- [Snap Timeline](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/snap-timeline/) Widget added
+- [Grove Timeline](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/grove-timeline/) Widget added
+- [Soft Timeline](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/soft-timeline/) Widget added
+- [Recent Comments](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/recent-comments/) Widget added
+- Icon position top option added in Social Share Widget
+- Column option added in alex, alter, elite, hazel, maple grid widget
+- Featured Item Counter color added in Featured List Widget
+- Navigation Dots some new controls added
+
+### Fixed
+
+- Author show/hide issue fixed in Alter grid and carousel widget
+- Text, Category, post format, Author show/hide issue solved in Maple Grid Widget
+- Item style overflow issue fixed in Alice Grid Widget
+
+### Noted
+
+- Previous Query deleted
+
+## 1.9.1 [10th July 2021]
+
+### Fixed
+
+- Element pack lite plugins conflict issue fixed
+
+## 1.9.0 [7th July 2021]
+
+### Added
+
+-New Query Controls option added in all post type widget
+
+### Noted
+
+- Previous Query will be delete when next major version will be release
+
+## 1.8.1 [5th June 2021]
+
+### Fixed
+
+- Human diff time issue fixed in harold carousel
+
+## 1.8.0 [5th June 2021]
+
+### Added
+
+- [Newsletter](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/newsletter/) Widget added
+- [Fanel List](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/fanel-list/) Widget added
+- [Scott List](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/scott-list/) Widget added
+- [Buzz List](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/buzz-list/) Widget added
+- [Buzz List Carousel](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/buzz-list-carousel/) Widget added
+- Post time option added in all Widgets
+- Category Image option added in Post Category Widget
+- Content position center, bottom center option added in Hazel Grid and Carousel Widgets
+
+## 1.7.0 [23th May 2021]
+
+### Added
+
+- [Social Share](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/social-share/) Widget Added
+- Image Height option added in Maple Carousel Widget
+- Hover Opacity option added in Post Category Widget
+
+## 1.6.0 [19th May 2021]
+
+### Added
+
+- [Tiny List](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/tiny-list/) Widget Added
+
+## 1.5.0 [5th May 2021]
+
+### Added
+
+- [Author](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/author/) Widget Added
+
+## 1.4.0 [27th April 2021]
+
+### Added
+
+- [Oras Timeline](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/timeline/) Widget Added
+- [Featured List](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/featured-list/) Widget Added
+
+## 1.3.0 [25th April 2021]
+
+### Added
+
+- [Category](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/post-category/) Widget Added
+- [Tag Cloud](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/tag-cloud/) Widget Added
+- [Accordion](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/post-accordion/) Widget Added
+- [Harold List Carousel](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/harold-list-carousel/) Widget Added
+- Human Different Time option Added in all Widgets
+
+## 1.2.0 [17th April 2021]
+
+### Added
+
+- [News Ticker](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/news-ticker/) Widget Added
+
+## 1.1.0 [16th April 2021]
+
+### Added
+
+- [Paradox Slider](https://bdthemes.net/demo/wordpress/ultimate-post-kit/demo/paradox-slider/) Widget Added
+
+## 1.0.1 [12th April 2021]
+
+### Added
+
+- Date and Category Added in Elite Grid, Elite Carousel Widget
+
+### Fixed
+
+- Some minor issue fixed and updated on some special cases
+
+## 1.0.0
+- Initial Release
